@@ -1,16 +1,34 @@
 # Magento2 icon packs
 
-> :warning: Work in progress
-
 Replace the default Magento2 Blank or Luma icons
-with any other popular framework.
+with any other popular icon frameworks.
 
-The icons packs are made as drop in replacement for the original version.
-And contains no extra icons
-than what Magento2 has by default in there Luma or Blank icons.
+## How to use
 
-[See the wiki on how to use the icon packs](https://github.com/GrimLink/magento2-icon-packs/wiki/How-to-use)
-in your theme and how to customize it.
+Copy your icon pack of choice to your theme in the `web/fonts`.
 
-And also [see the wiki how to complete replace it with your own](https://github.com/GrimLink/magento2-icon-packs/wiki/Replace-the-Magento-2-icon-system-completely).
-Or with the full icon pack by other popular framework.
+And change/add the following variables to load your new icons instead.
+
+```less
+@icons__font-path: "@{baseDir}fonts/M2-Luma-Material/M2-Luma-Material";
+@icons__font-name: "M2-Luma-Material";
+```
+
+_Example of M2-Luma-Material import_
+
+Also [see the wiki](https://github.com/GrimLink/magento2-icon-packs/wiki) for;
+- How to use the extra 3 icons (bag, sort up and sort down)
+- How to replace it with your own icon pack.
+
+## Icon packs
+
+The following icon packs are available in this repo
+
+- The default Magento 2 icons
+- [Material Icons](https://github.com/google/material-design-icons)
+- [Bootstrap 5 Icons](https://github.com/twbs/icons)
+
+The following icon packs are planned to be added
+
+- [FontAwesome 5](https://github.com/FortAwesome/Font-Awesome)
+- [Feather Icons](https://github.com/feathericons/feather)
