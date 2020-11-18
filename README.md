@@ -3,6 +3,8 @@
 Replace the default Magento2 Blank or Luma icons
 with any other popular icon frameworks.
 
+![Material icon pack preview](./preview.png)
+
 ## How to use
 
 Copy your icon pack of choice to your theme in the `web/fonts`.
