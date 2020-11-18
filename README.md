@@ -27,8 +27,8 @@ The following icon packs are available in this repo
 - The default Magento 2 icons
 - [Material Icons](https://github.com/google/material-design-icons)
 - [Bootstrap 5 Icons](https://github.com/twbs/icons)
+- [Feather Icons](https://github.com/feathericons/feather) (Luma only)
 
 The following icon packs are planned to be added
 
 - [FontAwesome 5](https://github.com/FortAwesome/Font-Awesome)
-- [Feather Icons](https://github.com/feathericons/feather)
