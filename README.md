@@ -19,7 +19,7 @@ And change/add the following variables to load your new icons instead.
 _Example of M2-Luma-Material import_
 
 Also [see the wiki](https://github.com/GrimLink/magento2-icon-packs/wiki) for;
-- How to use the extra 3 icons (bag, sort up and sort down)
+- How to use the extra 4 icons (bag, phone, sort up and sort down)
 - How to replace it with your own icon pack.
 
 ## Icon packs
