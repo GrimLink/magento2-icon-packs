@@ -30,6 +30,7 @@ The following icon packs are available in this repo
 - [Material Icons](https://github.com/google/material-design-icons)
 - [Bootstrap 5 Icons](https://github.com/twbs/icons)
 - [Feather Icons](https://github.com/feathericons/feather) (Luma only)
+- [Ikonate](https://github.com/mikolajdobrucki/ikonate) (Luma only)
 
 The following icon packs are planned to be added
 
